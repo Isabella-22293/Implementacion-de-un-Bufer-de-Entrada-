@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">En esta actividad práctica, implementarán un pequeño simulador de un búfer de entrada en Python, utilizando un carácter especial (eof) como centinela para indicar el final de los</p>
+<p align="left">En esta actividad práctica, implementarán un pequeño simulador de un búfer de entrada en Python, utilizando un carácter especial (eof) como centinela para indicar el final de los datos. El objetivo es que experimenten con la lógica de manejo de búferes para procesar datos eficientemente.
+Enlace del video https://youtu.be/BQ_YJEUq6WA </p>
 
 ###
 
