@@ -23,7 +23,7 @@ def procesar_buffer(buffer, avance, lexema_parcial):
     return avance, lexema
 
 # Configuración inicial
-entrada = list("Esto es un ejemplo de entrada con eof")
+entrada = list("Esto es un ejemplo eof")
 inicio = 0
 tamano_buffer = 10
 lexema_parcial = []  # Guardar lexemas divididos entre fragmentos
